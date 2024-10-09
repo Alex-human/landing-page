@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.logo {
+    border-radius: 50%;
+}
+.muñeco {
+    height: 300px;
+    width: auto;
+}
