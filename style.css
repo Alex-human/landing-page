@@ -1,6 +1,19 @@
 .header {
     display: flex;
     justify-content: space-between;
+    padding: 100px;
+}
+
+.nameheader {
+    display: flex;
+    padding: 100px;
+    gap: 50px;
+    align-items: center;
+}
+
+.undertitle {
+    text-align: start;
+    font-size: 24px;
 }
 
 ul {
@@ -13,41 +26,82 @@ ul {
 
 .logo {
     border-radius: 50%;
+    border:none;
 }
 .muñeco {
-    height: 300px;
+    height: 400px;
     width: auto;
+    border-radius: 30px;
+    border: solid rgb(255, 72, 0);
+    border-width: 5px;
 }
 
 .content {
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 50px;
+    margin-top: 120px;
 }
 
 .boxes {
     display: flex;
-    gap: 50px;
+    justify-content: center;
+    gap: 80px;
+    
 }
 
 .box {
     display: flex;
     flex-direction: column;
+    height: auto;
+    width: 200px;
 }
 
 p {
     text-align: center;
 }
 
-.undertitle {
-    text-align: start;
+.testimonial {
+font-size: 40px;
+margin-top: 120px;
+padding-left: 200px;
+padding-right: 200px;
+border: rgb(255, 72, 0);
+border-style: dotted;
+border-radius: 30px;
+
+
 }
 
 .calltoaction {
     display: flex;
     gap: 100px;
+    margin-top: 120px;
+    justify-content: center;
+    border: solid rgb(7, 241, 7);
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 300px;
+    border-radius: 30px;
+    align-items: center;
 }
 .trash {
     display: flex;
     flex-direction: column;
 }
+
+.buttontrash {
+    height: 40px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+img {
+    border: solid rgb(255, 72, 0);
+    border-radius: 20px;
+}
+
