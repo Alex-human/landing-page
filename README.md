@@ -1,1 +1,2 @@
 This is the beginning of my landing page. When I finish it, i'll write here again to explain how was it. 
+Edit. I finished my landing page and I did't do everything following the instructions, because I wanted to create my personal design. I followed the main containers and content but i shaped and styled it a bit different. The idea was to make a landing page for my youtube channel, and I did it! I know there is a lot more to improve but i'm happy with the result :)
